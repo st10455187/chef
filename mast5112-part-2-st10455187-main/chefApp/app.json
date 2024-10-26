@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "chefApp",
+    "slug": "chefApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logobg.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/logobg.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#277bde"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logobg.png",
+        "backgroundColor": "#277bde"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
